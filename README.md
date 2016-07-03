@@ -6,3 +6,4 @@ hello word
 test add merge
 add dev2
 add dev3
+Git is free software
